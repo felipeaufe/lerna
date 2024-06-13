@@ -1,7 +1,10 @@
 {
-  "name": "utils",
+  "name": "@felipeaufe/utils",
   "private": true,
   "version": "0.0.1",
+  "repository": {
+    "url": "https://github.com/felipeaufe/lerna.git"
+  },
   "scripts": {
     "prebuild": "rimraf dist/",
     "build": "tsc && npm run copy:package",
