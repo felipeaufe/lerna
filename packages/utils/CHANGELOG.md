@@ -3,6 +3,14 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.3.1](https://github.com/felipeaufe/lerna/compare/utils@0.3.0...utils@0.3.1) (2024-06-13)
+
+**Note:** Version bump only for package utils
+
+
+
+
+
 # [0.3.0](https://github.com/felipeaufe/lerna/compare/utils@0.2.0...utils@0.3.0) (2024-06-13)
 
 
