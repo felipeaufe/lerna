@@ -2,12 +2,14 @@
   "name": "root",
   "private": true,
   "scripts": {
-    "version": "lerna version --conventional-commits --yes"
+    "version": "lerna version --conventional-commits --yes",
+    "change": "lerna changed",
+    "publish": "lerna publish from-packages",
+    "build": "lerna run build"
   },
   "workspaces": [
     "packages/*"
   ],
-  "dependencies": {},
   "devDependencies": {
     "lerna": "^8.1.3"
   }

@@ -1,0 +1,15 @@
+{
+  "roots": [
+    "<rootDir>/src"
+  ],
+  "transform": {
+    "^.+\\.tsx?$": "ts-jest"
+  },
+  "collectCoverageFrom": [
+    "**/*.{ts,tsx}"
+  ],
+  "testMatch": [
+    "**/?(*.)+(spec|test).+(ts|js)"
+  ],
+  "testResultsProcessor": "jest-sonar-reporter"
+}
