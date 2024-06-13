@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [0.3.0](https://github.com/felipeaufe/lerna/compare/utils@0.2.0...utils@0.3.0) (2024-06-13)
+
+
+### Features
+
+* add multi fuction ([30b22b9](https://github.com/felipeaufe/lerna/commit/30b22b927110f0673e122897c6b9e48326c2112b))
+
+
+
+
+
 # [0.2.0](https://github.com/felipeaufe/lerna/compare/utils@0.1.0...utils@0.2.0) (2024-06-13)
 
 
