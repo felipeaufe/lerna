@@ -15,6 +15,9 @@
     "registry": "https://npm.pkg.github.com",
     "directory": "dist"
   },
+  "files": [
+    "/dist"
+  ],
   "private": false,
   "dependencies": {
     "@angular/animations": "^17.3.0",

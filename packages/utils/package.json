@@ -3,12 +3,15 @@
   "private": false,
   "version": "0.2.1",
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com"
-  },
-  "repository": {
-    "url": "https://github.com/felipeaufe/lerna.git",
+    "registry": "https://npm.pkg.github.com",
     "directory": "dist"
   },
+  "repository": {
+    "url": "https://github.com/felipeaufe/lerna.git"
+  },
+  "files": [
+    "/dist"
+  ],
   "scripts": {
     "prebuild": "rimraf dist/",
     "build": "tsc && npm run copy:package",
