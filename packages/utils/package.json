@@ -1,7 +1,7 @@
 {
   "name": "@felipeaufe/utils",
   "private": true,
-  "version": "0.1.1",
+  "version": "0.1.2",
   "publishConfig": {
     "@felipeaufe:registry": "https://npm.pkg.github.com"
   },

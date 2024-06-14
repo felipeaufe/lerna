@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.1.2](https://github.com/felipeaufe/lerna/compare/@felipeaufe/utils@0.1.0...@felipeaufe/utils@0.1.2) (2024-06-14)
+
+
+### Bug Fixes
+
+* teste ([20ae49a](https://github.com/felipeaufe/lerna/commit/20ae49addd069bdaaf7ccaa76deee3393dbb6118))
+
+
+
+
+
 ## [0.1.1](https://github.com/felipeaufe/lerna/compare/@felipeaufe/utils@0.1.0...@felipeaufe/utils@0.1.1) (2024-06-14)
 
 
