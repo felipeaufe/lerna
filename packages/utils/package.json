@@ -3,7 +3,7 @@
   "private": false,
   "version": "0.1.6",
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com"
+    "@felipeaufe:registry": "https://npm.pkg.github.com/felipeaufe"
   },
   "repository": {
     "url": "https://github.com/felipeaufe/lerna.git"
