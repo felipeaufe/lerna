@@ -3,7 +3,7 @@
   "private": true,
   "scripts": {
     "change": "lerna changed",
-    "publish": "lerna publish from-git --conventional-commits --yes dist",
+    "publish": "lerna publish from-git --conventional-commits --yes",
     "build": "lerna run build"
   },
   "publishConfig": {
