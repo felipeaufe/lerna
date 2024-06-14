@@ -4,7 +4,7 @@
   "scripts": {
     "version": "lerna version --conventional-commits --yes",
     "change": "lerna changed",
-    "publish": "lerna publish from-package",
+    "publish": "lerna publish from-git --yes",
     "build": "lerna run build"
   },
   "workspaces": [
