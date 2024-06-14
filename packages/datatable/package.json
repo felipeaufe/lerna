@@ -1,5 +1,5 @@
 {
-  "name": "@lerna/datatable",
+  "name": "@felipeaufe/lerna-datatable",
   "version": "0.1.10",
   "repository": {
     "url": "https://github.com/felipeaufe/lerna.git"
@@ -41,5 +41,5 @@
     "karma-jasmine-html-reporter": "~2.1.0",
     "typescript": "~5.4.2"
   },
-  "gitHead": "7eea2c4525adba4afc437b8e72e366bca087ed83"
+  "gitHead": "7093360d68f41261f85de2e359528aba258c7c5d"
 }

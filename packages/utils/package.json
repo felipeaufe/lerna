@@ -1,5 +1,5 @@
 {
-  "name": "@lerna/utils",
+  "name": "@felipeaufe/lerna-utils",
   "private": false,
   "version": "0.1.10",
   "publishConfig": {
@@ -28,5 +28,5 @@
     "ts-jest": "^29.1.4",
     "typescript": "^5.2.2"
   },
-  "gitHead": "7eea2c4525adba4afc437b8e72e366bca087ed83"
+  "gitHead": "7093360d68f41261f85de2e359528aba258c7c5d"
 }

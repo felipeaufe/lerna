@@ -1,5 +1,5 @@
 {
-  "name": "root",
+  "name": "@felipeaufe/lerna",
   "private": true,
   "scripts": {
     "version": "lerna version --conventional-commits --yes",
