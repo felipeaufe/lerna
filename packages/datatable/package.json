@@ -7,9 +7,11 @@
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
-    "build": "ng build",
+    "prebuild": "rimraf dist/",
+    "build": "ng build && npm run copy:package",
     "watch": "ng build --watch --configuration development",
-    "test": "ng test"
+    "test": "ng test",
+    "copy:package": "node scripts/make-pub-package.js"
   },
   "publishConfig": {
     "registry": "https://npm.pkg.github.com",
@@ -45,5 +47,5 @@
     "karma-jasmine-html-reporter": "~2.1.0",
     "typescript": "~5.4.2"
   },
-  "gitHead": "628080e6678070b1865c35c118837b63ceead6a9"
+  "gitHead": "433bd8b72d76d8628217eb7e97b9eee0df8081a4"
 }
