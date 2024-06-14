@@ -3,6 +3,14 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.2.1](https://github.com/felipeaufe/lerna/compare/@felipeaufe/lerna-utils@0.2.0...@felipeaufe/lerna-utils@0.2.1) (2024-06-14)
+
+**Note:** Version bump only for package @felipeaufe/lerna-utils
+
+
+
+
+
 # 0.2.0 (2024-06-14)
 
 
