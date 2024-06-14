@@ -1,6 +1,6 @@
 {
   "name": "@lerna/utils",
-  "private": true,
+  "private": false,
   "version": "0.1.1",
   "publishConfig": {
     "@felipeaufe:registry": "https://npm.pkg.github.com"
