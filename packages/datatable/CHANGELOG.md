@@ -3,6 +3,14 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.1.6](https://github.com/felipeaufe/lerna/compare/@lerna/datatable@0.1.5...@lerna/datatable@0.1.6) (2024-06-14)
+
+**Note:** Version bump only for package @lerna/datatable
+
+
+
+
+
 ## [0.1.5](https://github.com/felipeaufe/lerna/compare/@lerna/datatable@0.1.4...@lerna/datatable@0.1.5) (2024-06-14)
 
 **Note:** Version bump only for package @lerna/datatable
