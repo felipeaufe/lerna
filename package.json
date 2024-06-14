@@ -5,6 +5,7 @@
     "version": "lerna version",
     "change": "lerna changed",
     "publish": "lerna publish --conventional-commits --yes",
+    "prepublish": "git add . && git commit -m 'prepublish commit' || true",
     "build": "lerna run build"
   },
   "publishConfig": {
