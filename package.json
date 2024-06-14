@@ -2,10 +2,9 @@
   "name": "@felipeaufe/lerna",
   "private": true,
   "scripts": {
-    "version": "lerna version --conventional-commits --yes",
     "change": "lerna changed",
     "prepublish": "npm run version",
-    "publish": "lerna publish from-git --yes",
+    "publish": "lerna publish from-git --conventional-commits --yes dist",
     "build": "lerna run build"
   },
   "publishConfig": {
