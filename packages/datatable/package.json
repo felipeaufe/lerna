@@ -12,7 +12,8 @@
     "test": "ng test"
   },
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com"
+    "registry": "https://npm.pkg.github.com",
+    "directory": "dist"
   },
   "private": false,
   "dependencies": {

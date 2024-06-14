@@ -6,7 +6,8 @@
     "registry": "https://npm.pkg.github.com"
   },
   "repository": {
-    "url": "https://github.com/felipeaufe/lerna.git"
+    "url": "https://github.com/felipeaufe/lerna.git",
+    "directory": "dist"
   },
   "scripts": {
     "prebuild": "rimraf dist/",
