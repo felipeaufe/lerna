@@ -12,7 +12,7 @@
     "test": "ng test"
   },
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com/felipeaufe"
+    "registry": "https://npm.pkg.github.com"
   },
   "private": false,
   "dependencies": {
@@ -41,5 +41,5 @@
     "karma-jasmine-html-reporter": "~2.1.0",
     "typescript": "~5.4.2"
   },
-  "gitHead": "25f08cfc6cc54520ef24cc3f5f16cde46564e4ce"
+  "gitHead": "7eea2c4525adba4afc437b8e72e366bca087ed83"
 }

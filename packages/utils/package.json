@@ -3,7 +3,7 @@
   "private": false,
   "version": "0.1.9",
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com/felipeaufe"
+    "registry": "https://npm.pkg.github.com"
   },
   "repository": {
     "url": "https://github.com/felipeaufe/lerna.git"
@@ -28,5 +28,5 @@
     "ts-jest": "^29.1.4",
     "typescript": "^5.2.2"
   },
-  "gitHead": "25f08cfc6cc54520ef24cc3f5f16cde46564e4ce"
+  "gitHead": "7eea2c4525adba4afc437b8e72e366bca087ed83"
 }
