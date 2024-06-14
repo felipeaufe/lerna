@@ -2,10 +2,10 @@
   "name": "root",
   "private": true,
   "scripts": {
-    "version": "lerna version",
+    "version": "lerna version --conventional-commits --yes",
     "change": "lerna changed",
-    "publish": "lerna publish --conventional-commits --yes",
-    "prepublish": "git add . && git commit -m 'prepublish commit' || true",
+    "prepublish": "npm run version",
+    "publish": "lerna publish",
     "build": "lerna run build"
   },
   "publishConfig": {
