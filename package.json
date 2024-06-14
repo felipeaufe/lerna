@@ -2,9 +2,9 @@
   "name": "root",
   "private": true,
   "scripts": {
-    "version": "lerna version --conventional-commits --yes",
+    "version": "lerna version",
     "change": "lerna changed",
-    "publish": "lerna publish --conventional-commits --yes",
+    "publish": "lerna publish",
     "build": "lerna run build"
   },
   "publishConfig": {
