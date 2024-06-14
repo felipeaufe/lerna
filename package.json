@@ -7,6 +7,9 @@
     "publish": "lerna publish --conventional-commits --yes",
     "build": "lerna run build"
   },
+  "publishConfig": {
+    "@felipeaufe:registry": "https://npm.pkg.github.com"
+  },
   "workspaces": [
     "packages/*"
   ],

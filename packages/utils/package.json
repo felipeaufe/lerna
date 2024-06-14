@@ -2,6 +2,9 @@
   "name": "@felipeaufe/utils",
   "private": true,
   "version": "0.1.1",
+  "publishConfig": {
+    "@felipeaufe:registry": "https://npm.pkg.github.com"
+  },
   "repository": {
     "url": "https://github.com/felipeaufe/lerna.git"
   },
