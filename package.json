@@ -2,7 +2,7 @@
   "name": "root",
   "private": true,
   "scripts": {
-    "version": "lerna version",
+    "version": "lerna version --loglevel verbose",
     "change": "lerna changed",
     "publish": "lerna publish",
     "build": "lerna run build"
