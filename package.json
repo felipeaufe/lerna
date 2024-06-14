@@ -2,9 +2,9 @@
   "name": "root",
   "private": true,
   "scripts": {
-    "version": "lerna version --loglevel verbose",
+    "version": "lerna version",
     "change": "lerna changed",
-    "publish": "lerna publish",
+    "publish": "lerna publish --conventional-commits --yes",
     "build": "lerna run build"
   },
   "publishConfig": {
@@ -14,6 +14,6 @@
     "packages/*"
   ],
   "devDependencies": {
-    "lerna": "^5.1.4"
+    "lerna": "^7.4.2"
   }
 }
