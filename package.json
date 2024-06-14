@@ -5,7 +5,7 @@
     "version": "lerna version --conventional-commits --yes",
     "change": "lerna changed",
     "prepublish": "npm run version",
-    "publish": "lerna publish from-git",
+    "publish": "lerna publish from-git --yes",
     "build": "lerna run build"
   },
   "publishConfig": {
