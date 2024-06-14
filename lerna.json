@@ -6,7 +6,8 @@
     "publish": {
       "allowBranch": "main",
       "message": "chore(release): publish",
-      "conventionalCommits": true
+      "conventionalCommits": true,
+      "registry": "https://npm.pkg.github.com"
     }
   }
 }

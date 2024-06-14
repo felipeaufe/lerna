@@ -9,7 +9,7 @@
     "build": "lerna run build"
   },
   "publishConfig": {
-    "@felipeaufe:registry": "https://npm.pkg.github.com"
+    "registry": "https://npm.pkg.github.com"
   },
   "workspaces": [
     "packages/*"
